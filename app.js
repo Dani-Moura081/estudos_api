@@ -1,0 +1,1 @@
+console.log("o pai tá virando uma API\n\n   (～￣▽￣)～");
